@@ -2,8 +2,8 @@
 main:
   #- title: "Prp"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Category"
-    url: /Category/
+  - title: "Explanation"
+    url: /Explanation/
   #- title: "Sample Posts"
   #  url: /year-archive/
   #- title: "Sample Collections"
