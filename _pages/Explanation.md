@@ -6,8 +6,8 @@ title: "Explanation"
 #toc_sticky: true
 #toc_label: "MYSELF"
 ---
-
-
+<h4>🙌 Introduce</h4>
+<span style="font-size: 16px;">I am currently working for the WestWorld movie's VFX company under the nickname bbuggu and serve as a technical artist.</span> 
 
 <div style="display: flex;">
   <div style="flex: 4; padding-right: 14px;">
@@ -35,11 +35,15 @@ title: "Explanation"
     <img src="https://img.shields.io/badge/UE-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
     <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=412991"/>
+    <h4>✨Interest</h4>
+    <img src="https://img.shields.io/badge/Diretx12-000000?style=for-the-badge&logo=Vray&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=00599C"/>
+    <img src="https://img.shields.io/badge/3d graphics-000000?style=for-the-badge&logo=vray&logoColor=00599C"/>
+
   </div>
-  <div style="flex: 2; padding-left: 14px;">
+  <!-- <div style="flex: 2; padding-left: 14px;">-->
     <!-- 오른쪽 컨텐츠 -->
-    <h4>✨ Interest</h4>
-  </div>
+    <!--<h4>✨ Interest</h4>
+  </div>-->
 </div>
-openai
