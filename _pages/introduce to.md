@@ -1,6 +1,6 @@
 ---
-permalink: /Explanation/
-title: "Explanation"
+permalink: /introduce to/
+title: "introduce to"
 
 #toc: true
 #toc_sticky: true
@@ -16,7 +16,7 @@ title: "Explanation"
   <div style="display: flex;">
     <div style="flex: 4; padding-right: 14px;">
       <!-- 왼쪽 컨텐츠 -->
-      <h3>🔧 Tools </h3>
+      <h3>🔧 Dcc </h3>
       <ul>
         <li><span style="font-size: 14px;"><strong>Modeling</strong></span> |  
         <img src="https://img.shields.io/badge/Maya-000000?style=for-the-badge&logo=Autodesk&logoColor=37A5CC"/>
@@ -44,7 +44,6 @@ title: "Explanation"
       <img src="https://img.shields.io/badge/Diretx12-000000?style=for-the-badge&logo=Vray&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=00599C"/>
       <img src="https://img.shields.io/badge/3d graphics-000000?style=for-the-badge&logo=vray&logoColor=00599C"/>
-
     </div>
     <!-- <div style="flex: 2; padding-left: 14px;">-->
       <!-- 오른쪽 컨텐츠 -->
@@ -52,3 +51,6 @@ title: "Explanation"
     </div>-->
   </div>
 <div>
+<div>
+<h2> ✨experience </h2>
+</div>
