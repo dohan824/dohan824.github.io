@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Technical Artist"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "BBuggu"
+name                     : "BBugguuuu"
 description              : "information."
 url                      : "https://dohan824.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "BBuggu"
   avatar           : "/assets/images/bbuggulogo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Technical artist test **Dohan**."
+  bio              : "Technical artist **Dohan**."
   location         : "Republic of Korea"
   email            : 
   links:
